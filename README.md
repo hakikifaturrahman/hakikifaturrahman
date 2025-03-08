@@ -13,30 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=800&height=60&lines=Hi👋+I'm+Rumahmade..;Berani+Bermimpi+Lebih+Besar;Langkah+Kecil+Menuju+Perubahan+Besar;Kesuksesan+Adalah+Perjalanan+Bukan+Tujuan;Tetap+Semangat+Walau+Berproses;Imajinasi+Mengalahkan+Pengetahuan!" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=800&height=60&lines=Hi👋+I'm+Hakikifaturrahman..;Berani+Bermimpi+Lebih+Besar;Langkah+Kecil+Menuju+Perubahan+Besar;Kesuksesan+Adalah+Perjalanan+Bukan+Tujuan;Tetap+Semangat+Walau+Berproses;Imajinasi+Mengalahkan+Pengetahuan!" />
 </p>
 <p align="center">
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
 <br/>
 </p>
 
-<a href="https://www.instagram.com/mwidhiyana/">
+<a href="https://www.instagram.com/hakiki_ftr">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/barnamenevisiadmin/">
-  <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@_y3.fanny?lang=id-ID">
+<a href="https://www.tiktok.com/@bangikii">
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=tiktok&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/made.widhiyana.33">
+<a href="https://www.facebook.com/share/1ch48oAYWp/?mibextid=wwXIfr">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white">
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/Rumahmade2">
+<a href="https://github.com/hakikifaturrahman">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -47,7 +43,7 @@ Here are some ideas to get you started:
     Never hesitate to move forward, because every small step in your journey is the foundation to achieve great things. 
     The world of programming is full of challenges, but also endless opportunities. Keep learning, growing, and becoming a better person every day. 
     You have started an amazing journey, and every effort you make will bring greater results. Keep the spirit, Made Widhiyana, a bright future awaits you! 
-    <a href="https://www.instagram.com/mwidhiyana/" style="color: #E22FE4; font-weight: bold; text-decoration: none; border-bottom: 2px solid #E22FE4;">
+    <a href="https://www.instagram.com/hakiki_ftr" style="color: #E22FE4; font-weight: bold; text-decoration: none; border-bottom: 2px solid #E22FE4;">
         Rumhamade
     </a> 
     that shares everything I learn about programming.
