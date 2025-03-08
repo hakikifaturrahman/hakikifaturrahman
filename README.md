@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![hakikifaturrahman](https://github.com/hakikifaturrahman/hakikifaturrahman/blob/main/RmMd.png)
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=800&height=60&lines=Hi👋+I'm+Hakikifaturrahman..;Berani+Bermimpi+Lebih+Besar;Langkah+Kecil+Menuju+Perubahan+Besar;Kesuksesan+Adalah+Perjalanan+Bukan+Tujuan;Tetap+Semangat+Walau+Berproses;Imajinasi+Mengalahkan+Pengetahuan!" />
 </p>
